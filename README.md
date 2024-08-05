@@ -1,9 +1,34 @@
 ![BA_shupo_020](https://github.com/user-attachments/assets/7cb0d006-5e1f-4ff0-a990-ea15f8c51c07)
 
-- 👋 Hi, I’m @Lee-Jihyuwe
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning how to code
-- ⚡ Fun fact: Apes, Together, Strong
+> 👋 Hi, I’m @Lee-Jihyuwe
+# About Me
+## Personal Information
+- Name: ?
+- Age: ?
+- Location: ?
+- Sex: no
+- Contact:
+     - Email: ierimiasu@gmail.com
+     - Phone Number: ?
+# Educational Background
+- Degree: Bachelor of Science in Computer Science (Ongoing)
+- Institution: La Consolacion College Biñan
+# Skills
+> Locked
+
+> Locked
+
+# Achievements
+- None
+
+  ![BA_shupo_012](https://github.com/user-attachments/assets/8cd574b4-2a77-44d5-9033-d5b2a6f3490b)
+
+# Hobbies and Interests
+- Reading and Writing Poetry (sometimes)
+- Drawing
+- Anime and Games
+# Motto
+If you're going to die tomorrow, why not today?
 
 <!---
 Lee-Jihyuwe/Lee-Jihyuwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
