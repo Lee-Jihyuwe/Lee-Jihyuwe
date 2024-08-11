@@ -28,7 +28,7 @@
 - Drawing
 - Anime and Games
 # Motto
-If you're going to die tomorrow, why not today?
+Vanitas Vanitatum, Et Omnia Vanitas
 
 <!---
 Lee-Jihyuwe/Lee-Jihyuwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
