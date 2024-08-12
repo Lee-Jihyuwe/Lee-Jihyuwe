@@ -30,6 +30,12 @@
 # Motto
 Vanitas Vanitatum, Et Omnia Vanitas
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lee-Jihyuwe&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lee-Jihyuwe&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lee-Jihyuwe&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lee-Jihyuwe&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lee-Jihyuwe&theme=github_dark)
 <!---
 Lee-Jihyuwe/Lee-Jihyuwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
