@@ -1,5 +1,7 @@
 ![BA_shupo_020](https://github.com/user-attachments/assets/7cb0d006-5e1f-4ff0-a990-ea15f8c51c07)
 
+
+
 > 👋 Hi, I’m @Lee-Jihyuwe
 # About Me
 ## Personal Information
@@ -36,6 +38,10 @@ Vanitas Vanitatum, Et Omnia Vanitas
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lee-Jihyuwe&theme=github_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lee-Jihyuwe&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lee-Jihyuwe&theme=github_dark)
+
+
+[<img src="https://github.com/Lee-Jihyuwe/SchoolNotes/blob/main/senseipeak.jpg" alt="drawing" width="200"/>](https://github.com/Lee-Jihyuwe/Lee-Jihyuwe/blob/main/Nextpage.md)
+
 <!---
 Lee-Jihyuwe/Lee-Jihyuwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
